@@ -99,7 +99,7 @@ def cnf():
                 try:
                     n1 = float(input(color.PURPLE + " Type your first number (with decimals): "+ color.END) )
                     print(" ")
-                    n2 = float(input(color.PURPLE + " type your second number (with decimals): "+ color.END) )
+                    n2 = float(input(color.PURPLE + " Type your second number (with decimals): "+ color.END) )
                 except:
                     print(" ")
                     print(color.RED + "     ERROR:"+ color.END + color.YELLOW + " you typed an invalid argument pls use only float numbers."+ color.END)
