@@ -28,7 +28,7 @@ A usefull calculator for any student or anyone who want's to know how to build a
 
 ```bash
 git clone https://github.com/felxansl/Py.Calculator
-cd Py.Calculator
+cd py.calculator
 python main.py
 ```
 
@@ -38,7 +38,7 @@ python main.py
 
 ```bash
 git clone https://github.com/felxansl/Py.Calculator
-cd Py.Calculator
+cd py.calculator
 python main.py
 ```
 
@@ -48,7 +48,7 @@ python main.py
 
 ```bash
 git clone https://github.com/felxansl/Py.Calculator
-cd Py.Calculator
+cd py.calculator
 python main.py
 ```
 
