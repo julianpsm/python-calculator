@@ -45,7 +45,7 @@ while True:
     try:
         n1 = float(input(color.PURPLE + " Type your first number (with decimals): "+ color.END) )
         print(" ")
-        n2 = float(input(color.PURPLE + " type your second number (with decimals): "+ color.END) )
+        n2 = float(input(color.PURPLE + " Type your second number (with decimals): "+ color.END) )
     except:
         print(" ")
         print(color.RED + "     ERROR:"+ color.END + color.YELLOW + " you typed an invalid argument pls use only float numbers."+ color.END)
@@ -64,7 +64,7 @@ def cnf():
         3( Substract them.
         4( Divide.
         5( Change my numbers.
-        6( change my numbers (without decimals).
+        6( Change my numbers (without decimals).
         7( Exit.
         """+ color.END)
         opt = 0
@@ -94,7 +94,7 @@ def cnf():
                 try:
                     n1 = float(input(color.PURPLE + " Type your first number (with decimals): "+ color.END) )
                     print(" ")
-                    n2 = float(input(color.PURPLE + " type your second number (with decimals): "+ color.END) )
+                    n2 = float(input(color.PURPLE + " Type your second number (with decimals): "+ color.END) )
                 except:
                     print(" ")
                     print(color.RED + "     ERROR:"+ color.END + color.YELLOW + " you typed an invalid argument pls use only float numbers."+ color.END)
