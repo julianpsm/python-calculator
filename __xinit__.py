@@ -107,7 +107,6 @@ def cnf():
                     break
         elif option == 6:
             import __init__
-            __init__.cnf()
         elif option == 7:
             print(color.YELLOW + """ 
     ██████╗ ██╗   ██╗███████╗██╗
