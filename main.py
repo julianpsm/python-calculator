@@ -36,10 +36,8 @@ while True:
     print(" ")
     if elec == 'yes':
         import __init__
-        __init__.cnf()
     elif elec == 'no':
         import __xinit__
-        __xinit__.cnf()
     else:
         print(" ")
         print(color.RED + "     ERROR:"+ color.END + color.YELLOW +" you typed an invalid argument type yes or no."+ color.END)
