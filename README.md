@@ -1,13 +1,13 @@
 # Py.Calculator
 
-A usefull calculator for any student or anyone who want's to know how to build a simple 2 mode python based calculator.
+A usefull calculator for any student or anyone who want's to know more about if statemants loops etc.
 
 # Getting started
 
 <ul> 
-<li> This Program run on both Windows and Linux operating system by using python, or all other python editor with the python version 3.x</li>
+<li> This Program runs on Windows Linux and macos operating system by using python, or all other python editor with the python version 3.x</li>
 
-<li> This software is developed by python 3.x</li>
+<li> This software is developed on python 3.x</li>
 
 <li> You can use 2 modes int numbers and float numbers.</li>
 
@@ -29,7 +29,7 @@ A usefull calculator for any student or anyone who want's to know how to build a
 ```bash
 git clone https://github.com/felxansl/Py.Calculator
 cd py.calculator
-python main.py
+python3 main.py
 ```
 
 # For Windows
@@ -39,7 +39,7 @@ python main.py
 ```bash
 git clone https://github.com/felxansl/Py.Calculator
 cd py.calculator
-python main.py
+python3 main.py
 ```
 
 # For Mac
@@ -49,7 +49,7 @@ python main.py
 ```bash
 git clone https://github.com/felxansl/Py.Calculator
 cd py.calculator
-python main.py
+python3 main.py
 ```
 
 # Built in
