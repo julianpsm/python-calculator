@@ -27,7 +27,7 @@ A usefull calculator for anyone who want's to know more about if statemants loop
 <li> Clone the repo </li>
 
 ```bash
-git clone https://github.com/felxansl/py.calculator
+git clone https://github.com/felxansl/python-calculator
 cd py.calculator
 python3 main.py
 ```
@@ -37,7 +37,7 @@ python3 main.py
 <li> Clone the repo</li>
 
 ```bash
-git clone https://github.com/felxansl/py.calculator
+git clone https://github.com/felxansl/python-calculator
 cd py.calculator
 python3 main.py
 ```
@@ -47,7 +47,7 @@ python3 main.py
 
 
 ```bash
-git clone https://github.com/felxansl/py.calculator
+git clone https://github.com/felxansl/python-calculator
 cd py.calculator
 python3 main.py
 ```
